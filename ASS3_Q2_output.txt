@@ -1,3 +1,36 @@
+Top 5 nodes with highest outdegree and corresponding indegrees:
+
+id | inDegree
+3359851 | 3373
+59804598 | 2467
+7860742 | 2458
+18776017 | 2272
+5442012 | 2204
+
+Top 5 nodes with highest indegree and corresponding indegrees:
+
+id | inDegree
+40981798 | 8660
+43003845 | 7700
+22462180 | 7623
+34428380 | 7558
+115485051 | 4798
+
+Top 5 nodes with highest PageRank and corresponding PageRank values:
+
+id | pagerank
+115485051 | 868.5221563319903
+116485573 | 739.8850676317821
+813286 | 217.04625375979225
+40981798 | 182.00557768936966
+11348282 | 173.131312934143
+
+Top 5 components with highest number of nodes and corresponding node count values:
+
+component | count
+0 | 70097
+
+
 Top 5 nodes with highest triangle count and corresponding triangle count values:
 
 id | count
