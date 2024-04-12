@@ -1,0 +1,8 @@
+Top 5 nodes with highest triangle count and corresponding triangle count values:
+
+id | count
+40981798 | 96791
+43003845 | 87509
+22462180 | 86919
+34428380 | 86485
+3359851 | 68089
