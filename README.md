@@ -7,3 +7,5 @@ while creating the cluster import some libraries. import graphframes with type P
 now click on Run All
 
 I have used the twitter-combined.txt from SNAP repository.
+all the details are availabe in the below github repository.
+https://github.com/DheerajChintagumpala/Bigdata/tree/main
